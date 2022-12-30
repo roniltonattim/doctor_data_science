@@ -15,7 +15,7 @@ I am fascinated by technology and programming. That's why I took a technical pro
 
 **Links:**
 * [Blog]()
-* [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/ronilton-gomes-07a28b103/))
+* [LinkedIn](https://www.linkedin.com/in/ronilton-gomes-07a28b103/)
 * [Medium](https://www.medium.com)
 
 
