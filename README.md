@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/author-carlosfab-red.svg)](https://www.linkedin.com/in/carlosfab) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
+[![author](https://img.shields.io/badge/author-carlosfab-red.svg)](https://www.linkedin.com) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
 
 <p align="center">
   <img src="banner_ronilton_attim.png" >
@@ -7,16 +7,15 @@
 # Dr Ronilton Attim
 <sub>*Data Scientist* and cardiologist Doctor Center</sub>
 
-Graduated in medicine from the Federal University of Piauí in 2004. Medical residency in Internal Medicine and Cardiology. 
-I am passionate about technology and programming. 
-I have a technical programming course in Python and Data Science. 
-Check out my portfolio below.
+I graduated in medicine from the Federal University of Piauí in 2004. 
+I did a medical residency in Internal Medicine and Cardiology (2004-2009). 
+I am fascinated by technology and programming. That's why I took a technical programming course in Python and Data Science with a focus on healthcare and business. Check out my portfolio below.
 
 **Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
+* [Blog]()
+* [LinkedIn](https://www.linkedin.com/)
 * [Medium](https://www.medium.com)
 
 
