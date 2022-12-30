@@ -14,7 +14,7 @@ I am fascinated by technology and programming. That's why I took a technical pro
 **Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
 
 **Links:**
-* [Blog]()
+* [Blog](https://roniltonattim.com.br/blog/)
 * [LinkedIn](https://www.linkedin.com/in/ronilton-gomes-07a28b103/)
 * [Medium](https://www.medium.com)
 
