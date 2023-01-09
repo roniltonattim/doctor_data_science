@@ -9,7 +9,7 @@ I graduated in medicine from the Federal University of Piauí in 2004.
 I did a medical residency in Internal Medicine and Cardiology (2004-2009). 
 I am fascinated by technology and programming. That's why I took a technical programming course in Python and Data Science with a focus on healthcare and business. Check out my portfolio below.
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+**Background in:** Python, Machine Learning, Medicine, Cardiology, Ultrassound.
 
 **Links:**
 * [Blog](https://roniltonattim.com.br/blog/)
