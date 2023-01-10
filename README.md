@@ -19,7 +19,7 @@ I am fascinated by technology and programming. That's why I took a technical pro
 
 ## Projetos:
 
-* **Analisando dados do Airbnb - Veneza - Itália:**https://bit.ly/3IKNZeG
+* **Analisando dados do Airbnb - Veneza - Itália:** https://bit.ly/3IKNZeG
 
 Veja os tutoriais publicados do Sigmoidal:
 
